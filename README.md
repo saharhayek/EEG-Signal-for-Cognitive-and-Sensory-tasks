@@ -1,5 +1,3 @@
-project in collab with @Royjarjoura
-
 # EEG-Signal-for-Cognitive-and-Sensory-tasks
 Use EEG signals recorded during multiple cognitive and sensory tasks to train a
 deep learning model capable of classifying mental states based on raw EEG activity.
